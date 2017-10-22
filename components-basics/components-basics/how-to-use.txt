@@ -1,0 +1,6 @@
+HOW TO USE
+--------
+
+In the extracted folder, run "npm install" in your terminal/ command prompt to install all dependencies of the projects. This will create the node_modules folder.
+
+Once you did that, simply run "ng serve" or "npm start" to spin up the development server.

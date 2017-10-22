@@ -1,0 +1,21 @@
+{
+  "name": "bitcoin",
+  "version": "1.0.0",
+  "description": "prototype for bitcoin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "blockchain"
+  ],
+  "author": "tarik ennakdi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "http": "0.0.0",
+    "request": "^2.83.0"
+  }
+}
