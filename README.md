@@ -1,3 +1,3 @@
 # tutorials
 
-more details before end of november
+need more details
