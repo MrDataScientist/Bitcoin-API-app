@@ -1,3 +1,3 @@
-# tutorials
+# Bitcoin market price app
 
-need more details
+How to call bitcoin json API to grab the stock market data into your frontend using node.js and
