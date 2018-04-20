@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "bitcoin/package.json",
+        "components-basics/components-basics/package.json"
+      ]
+    }
+  }
+}
